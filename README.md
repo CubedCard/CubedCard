@@ -1,7 +1,7 @@
 - ✌️ Hi, I’m @CubedCard
 - 💻 I'm a student in Software Engineering
 - 👀 Interested in Java and ViM
-- 🌱 Currently learning Java, Spring, Docker and ViM
+- 🌱 Currently learning Java (Spring Boot), Docker and ViM
 
 <!---
 CubedCard/CubedCard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
