@@ -1,6 +1,6 @@
 - ✌️ Hi, I’m @CubedCard
-- 💻 I'm a student in Software Engineering
-- 👀 Interested in Java and ViM
+- 💻 I'm a student Software Engineering
+- 👀 Interested in the backend and ViM
 - 🌱 Currently learning Java (Spring Boot), Docker and ViM
 
 <!---
