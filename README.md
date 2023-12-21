@@ -1,6 +1,6 @@
 # <img align="left" width="45" src="https://jipderksen.com/assets/jd2.png"> Jip Derksen
 
-<img align="right" width="150" src="https://jipderksen.com/assets/me.jpeg">
+<img align="right" width="140" src="https://jipderksen.com/assets/me.jpeg">
 
 ✌️ Hi, I’m [@CubedCard](https://www.linkedin.com/in/jipderksen/)
 
