@@ -8,7 +8,7 @@
 
 👀 Interested in the backend and ViM
 
-🌱 Currently learning Java (Spring Boot), Docker, and ViM
+🌱 Currently working with .NET, TypeScript, and React
 
 ## Connect with me:
 
