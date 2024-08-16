@@ -4,7 +4,7 @@
 
 ✌️ Hi, I’m [@CubedCard](https://www.linkedin.com/in/jipderksen/)
 
-💻 I'm a student Software Engineering
+💻 I'm a Software Engineering
 
 👀 Interested in the backend and ViM
 
