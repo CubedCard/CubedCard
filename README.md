@@ -8,7 +8,7 @@
 
 👀 Interested in the backend and ViM
 
-🌱 Currently working with C#, TypeScript, and React
+🌱 Currently working with C#, TypeScript, and Rust
 
 ## Connect with me:
 
