@@ -8,7 +8,7 @@
 
 👀 Interested in the backend and ViM
 
-🌱 Currently working with C#, TypeScript, and Rust
+🌱 Currently working with C#, Python, and Web
 
 ## Connect with me:
 
