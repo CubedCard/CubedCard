@@ -1,7 +1,7 @@
 # <img align="left" width="45" src="https://jipderksen.com/assets/jd2.png"> Hi, I'm Jip Derksen (CubedCard) 👋
 
 <a href="https://www.linkedin.com/in/jipderksen/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
-<a href="https://www.jipderksen.com/"><img src="https://img.shields.io/badge/Website-222?logo=google-chrome&style=flat-square" alt="Website"></a>
+<a href="https://jipderksen.com/"><img src="https://img.shields.io/badge/Website-222?logo=google-chrome&style=flat-square" alt="Website"></a>
 <a href="https://www.instagram.com/jipderksen/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=flat-square" alt="Instagram"></a>
 <a href="https://twitter.com/jippurt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square" alt="Twitter"></a>
 
