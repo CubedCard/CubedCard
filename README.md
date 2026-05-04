@@ -28,10 +28,10 @@
 
 ## 🚀 Featured Projects
 
-- [automations](https://github.com/CubedCard/automations) – My automations to make life a little easier
 - [leetcode](https://github.com/CubedCard/leetcode) – Because it is fun to program
-- [darts](https://github.com/CubedCard/darts) – I like to play darts with my brothers
 - [adventofcode](https://github.com/CubedCard/adventofcode) – My solutions to the last couple of years of Advent of Code
+- [darts](https://github.com/CubedCard/darts) – I like to play darts with my brothers
+- [automations](https://github.com/CubedCard/automations) – My automations to make life a little easier
 
 ---
 
