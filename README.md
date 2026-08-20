@@ -12,7 +12,7 @@
 - **Software Engineer** at ChipSoft, working as a full stack developer  
 - **Summa cum laude** propedeuse & **cum laude** BSc in HBO-ICT Software Engineering (HvA)
 - Passionate about building with **Java**, **Python**, and web technologies (I know C#, but let’s not talk about it 😅)
-- Linux enthusiast & Neovim lover  
+- Linux & Neovim enthusiast
 - Always tinkering with **self-hosting** and automation
 
 ---
