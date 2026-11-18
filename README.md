@@ -1,7 +1,5 @@
 # <img align="left" width="45" src="https://github.com/CubedCard/scaling-computing-machine/blob/cf98a673eef03bad07b346f997457e6f2c80531e/static/jd2.png"> Hello! 👋
 
----
-
 ## 🧑‍💻 About Me
 
 - **Software Engineer** at BBTG  
