@@ -12,7 +12,7 @@
 
 - **Languages:** Java, Python, C#
 - **Web:** HTML, CSS, JavaScript, modern web frameworks
-- **Dev Tools:** Neovim, Git, Docker, Linux, CI/CD
+- **Dev Tools:** Git, Docker, Linux, CI/CD
 - **Other:** Full-stack development, problem solving, system design
 
 ---
